@@ -9,3 +9,4 @@ pip install pandas
 
 you can run the ipynb file in the jupyter notebook.
 
+Blogpost: https://medium.com/analytics-vidhya/pandas-complete-guide-a-z-36ba8bd15232
